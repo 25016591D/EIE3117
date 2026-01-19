@@ -1,3 +1,7 @@
 Hello Git
-Hello Git, edited
 New line from Alice
+<<<<<<< HEAD
+New line from Bob
+=======
+New line from Alice
+>>>>>>> origin/main
